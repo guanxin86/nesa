@@ -1,4 +1,4 @@
-# nexus
+# nesa
 *使用的python3.12虚拟环境，环境文件在/root/.nesa/pythonenv*
 ## 教程
 ### 官方文档
