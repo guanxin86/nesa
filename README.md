@@ -23,7 +23,7 @@ docker compose /root/.nesa/docker/compose.community.yml down
 ```
 ### 启动容器
 ```
-docker compose /root/.nesa/docker/compose.community.yml down -d
+docker compose /root/.nesa/docker/compose.community.yml up -d
 ```
 ## 相关网页
 [状态查询](https://node.nesa.ai/nodes/H8VCdNsCaFW5qzPz5bwYiVsVnXTB2GirFdz9UJh9MPar)
