@@ -10,7 +10,7 @@
 ## 命令
 ### 查看日志
 ```
-docker logs -f orchestrator
+docker logs --tail 100 -f orchestrator
 ```
 ### 获取id
 ```
